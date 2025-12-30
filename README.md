@@ -8,7 +8,7 @@ A plain HTML website built with Tailwind CSS v4 (CDN) featuring:
 - Homepage with institution overview
 - About Us page
 - APSC Application page
-- Skill Training Application page
+- Skill Development Application page
 
 ## Technology Stack
 
@@ -34,7 +34,7 @@ krdc_website/
 ├── index.html              # Homepage
 ├── about.html              # About Us
 ├── apsc.html               # APSC Application
-├── skill-training.html     # Skill Training Application
+├── skill-development.html     # Skill Development Application
 ├── css/
 │   └── styles.css          # Custom CSS
 ├── js/
