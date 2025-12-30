@@ -1,0 +1,8 @@
+<nav class="flex flex-row flex-nowrap gap-2 md:gap-6 items-center justify-center">
+{% for item in site.navigation %}
+    <a href="{{ item.url }}"
+       class="{% if page.url == item.url or (page.url.startsWith(item.url) and item.url != '/') %}text-olive-900 font-semibold border-b-2 border-golden-600{% else %}text-olive-800{% endif %} hover:text-golden-700 transition-colors px-3 py-2 rounded">
+        {{ item.title }}
+    </a>
+{% endfor %}
+</nav>

@@ -1,0 +1,10 @@
+{
+  "title": "Koch Rajbongshi Development Council",
+  "description": "Empowering through education and skill development",
+  "year": 2025,
+  "url": "https://krdc.info",
+  "navigation": [
+    { "title": "Home", "url": "/" },
+    { "title": "About Us", "url": "/about/" }
+  ]
+}

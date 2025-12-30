@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  {% include "components/head.njk" %}
+</head>
+<body class="bg-gray-50">
+  {% include "components/header.njk" %}
+
+  <main>
+    {{ content | safe }}
+  </main>
+
+  {% include "components/footer.njk" %}
+
+  <script src="/js/script.js"></script>
+</body>
+</html>
