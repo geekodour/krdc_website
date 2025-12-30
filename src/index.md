@@ -13,10 +13,10 @@ pageDescription: Koch Rajbongshi Development Council - Empowering through educat
         </h2>
         <div class="flex flex-col gap-4 justify-center">
             <a href="/apsc" class="bg-olive-700 hover:bg-olive-800 text-golden-50 font-semibold px-8 py-3 rounded-lg transition-colors shadow-lg">
-                Apply for Vocational training for APSC and other competetive examinations
+                Apply for vocational training for APSC and other competetive examinations
             </a>
             <a href="/skill-development" class="bg-golden-600 hover:bg-golden-700 text-olive-900 font-semibold px-8 py-3 rounded-lg transition-colors shadow-lg">
-Apply for Skill Development for Livelihood Generation
+Apply for skill development for livelihood generation
             </a>
         </div>
     </div>

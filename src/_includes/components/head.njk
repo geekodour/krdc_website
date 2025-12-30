@@ -3,12 +3,20 @@
 <title>{{ pageTitle }}</title>
 <meta name="description" content="{{ pageDescription }}">
 
+<!-- Inter Font -->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap" rel="stylesheet">
+
 <!-- Tailwind CSS v4 CDN -->
 <script src="https://cdn.tailwindcss.com"></script>
 <script>
     tailwind.config = {
         theme: {
             extend: {
+                fontFamily: {
+                    sans: ['Inter', 'sans-serif']
+                },
                 colors: {
                     olive: {
                         50: '#f6fee6', 100: '#edfdce', 200: '#dafc9c',
