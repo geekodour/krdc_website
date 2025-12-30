@@ -14,3 +14,32 @@ pageDescription: Learn about Koch Rajbongshi Development Council's mission, visi
         </p>
     </div>
 </section>
+
+<!-- Main Content -->
+<section class="py-16 bg-white">
+    <div class="container mx-auto px-4 max-w-4xl">
+        <h3 class="text-3xl font-bold text-olive-900 mb-6">About Koch Rajbongshi Development Council (KRDC)</h3>
+
+        <div class="prose prose-lg max-w-none text-gray-700 space-y-6">
+            <p>
+                The Koch Rajbongshi Development Council (KRDC) is a statutory body constituted by the Government of Assam with the objective of ensuring the holistic socio-economic, educational, and cultural development of the Koch Rajbongshi community across the state.
+            </p>
+
+            <p>
+                KRDC works towards the upliftment and empowerment of Koch Rajbongshi youths by implementing targeted initiatives in the areas of education, skill development, livelihood generation, capacity building, and cultural preservation. A key focus of the Council is to create equitable access to opportunities, particularly for students and youths from rural and economically disadvantaged backgrounds.
+            </p>
+
+            <p>
+                In the field of education, KRDC actively promotes academic support, vocational training, competitive examination coaching, and scholarship-linked programmes, enabling meritorious students to pursue higher education and government employment. Through district-level outreach and collaboration with academic institutions and training partners, the Council seeks to bridge gaps in access to quality education and professional guidance.
+            </p>
+
+            <p>
+                The Council also plays an important role in community development and cultural conservation, working to preserve the rich heritage, language, and traditions of the Koch Rajbongshi community while aligning development efforts with modern socio-economic needs.
+            </p>
+
+            <p>
+                Through its programmes and initiatives, the Koch Rajbongshi Development Council (KRDC) remains committed to fostering inclusive growth, social equity, and sustainable development, contributing meaningfully to the overall progress of Assam.
+            </p>
+        </div>
+    </div>
+</section>
