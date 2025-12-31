@@ -10,7 +10,7 @@ pageDescription: Learn about Koch Rajbongshi Development Council's mission, visi
     <div class="container mx-auto px-4 text-center">
         <h2 class="text-4xl md:text-5xl font-bold text-olive-900 mb-4">About Us</h2>
         <p class="text-lg text-olive-800 max-w-2xl mx-auto">
-            Dedicated to the advancement and empowerment of the Koch Rajbongshi community through quality education
+            Dedicated to the advancement and empowerment of the Koch Rajbongshi Community
         </p>
     </div>
 </section>
