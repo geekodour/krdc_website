@@ -29,9 +29,10 @@ Apply for skill development for livelihood generation
             <h3 class="text-3xl font-bold text-olive-900 mb-6">About Koch Rajbongshi Development Council (KRDC)</h3>
             <p class="text-lg text-olive-800 mb-6 leading-relaxed">
 The Koch Rajbongshi Development Council (KRDC) is constituted by the Government of Assam to promote the overall socio-economic, educational, and cultural development of the Koch Rajbongshi community in the state.
+
+The Council was established to address community-specific development needs through focused planning and targeted interventions, ensuring inclusive growth and equitable access to government welfare and development programmes.
             </p>
             <p class="text-lg text-olive-800 mb-6 leading-relaxed">
-The Council was established to address community-specific development needs through focused planning and targeted interventions, ensuring inclusive growth and equitable access to government welfare and development programmes.
             </p>
             <a href="/about" class="bg-olive-700 hover:bg-olive-800 text-golden-50 font-semibold px-8 py-3 rounded-lg transition-colors inline-block shadow-lg">
                 Learn More About Us
