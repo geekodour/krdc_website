@@ -22,7 +22,11 @@ pageDescription: Learn about Koch Rajbongshi Development Council's mission, visi
 
         <div class="prose prose-lg max-w-none text-gray-700 space-y-6">
             <p>
-                The Koch Rajbongshi Development Council (KRDC) is a statutory body constituted by the Government of Assam with the objective of ensuring the holistic socio-economic, educational, and cultural development of the Koch Rajbongshi community across the state.
+                The Koch Rajbongshi Development Council (KRDC) is constituted by the Government of Assam to promote the overall socio-economic, educational, and cultural development of the Koch Rajbongshi community in the state.
+            </p>
+
+            <p>
+                The Council was established to address community-specific development needs through focused planning and targeted interventions, ensuring inclusive growth and equitable access to government welfare and development programmes.
             </p>
 
             <p>
@@ -40,6 +44,18 @@ pageDescription: Learn about Koch Rajbongshi Development Council's mission, visi
             <p>
                 Through its programmes and initiatives, the Koch Rajbongshi Development Council (KRDC) remains committed to fostering inclusive growth, social equity, and sustainable development, contributing meaningfully to the overall progress of Assam.
             </p>
+
+            <p>
+                The Koch Rajbongshi Development Council plays a pivotal role in advancing community development through the following functions:
+            </p>
+
+            <ul>
+                <li>Promoting livelihood generation, skill development, and economic empowerment</li>
+                <li>Supporting education, vocational training, and capacity-building initiatives</li>
+                <li>Preserving and promoting the language, culture, traditions, and heritage of the community</li>
+                <li>Facilitating access to government welfare schemes and infrastructure development</li>
+                <li>Facilitating coordination between the Koch Rajbongshi community and State and Central Government departments for development initiatives</li>
+            </ul>
         </div>
     </div>
 </section>
