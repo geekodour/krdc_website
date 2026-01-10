@@ -5,6 +5,7 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy("src/assets");
   eleventyConfig.addPassthroughCopy("CNAME");
   eleventyConfig.addPassthroughCopy("NoticeForWebsiteAPSC.pdf");
+  eleventyConfig.addPassthroughCopy("NoticeForWebsiteSkill.pdf");
 
   return {
     dir: {
